@@ -29,39 +29,38 @@ core-code.io is designed as if you were already hired by a software company. You
 
 ## Mutable INDEX (because it will change overtime)
 
-- 0 -- Why are we here
+### Why are we here
 -- A day in the life of a software engineer
 -- Where can I work in
 -- What can I build
 -- How much could I earn (and when)
 
-- 1 -- The development environment
--- Introduction to the tools
--- The CLI
---- Basic file and directory navigation commands (cd, pwd, touch, env, source, echo, rm, cp, mkdir)
--- The text editor
--- The browser
---- The browser developer tools
+### The development environment
+#### Introduction to the tools
+#### The CLI
+##### Basic file and directory navigation commands (cd, pwd, touch, env, source, echo, rm, cp, mkdir)
+#### The text editor
+#### The browser
+##### The browser developer tools
+#### Stackoverflow.com
 
-- 2 -- Version control systems
--- Introduction to Github
--- Introduction to GIT
--- Basic GIT commands (commit, fetch, pull, push, config, remote, merge, branch, checkout)
--- Branches
--- Resolving merge conflicts
--- Creating a Pull Request
--- Code reviews
+### Version control systems
+#### Introduction to Github
+#### Introduction to GIT
+#### Basic GIT commands (commit, fetch, pull, push, config, remote, merge, branch, checkout)
+#### Branches
+#### Resolving merge conflicts
+#### Creating a Pull Request
+#### Code reviews
 
-- 3 -- Introduction to HTML
--- Hello world
--- Structure of a web page
--- HTML elements and the DOM
+### Introduction to HTML
+#### Hello world
+#### Structure of a web page
+#### HTML elements and the DOM
 
-- 4 -- Introduction to JavaScript
--- Basics of any programming language
--- Writing my first program
--- Running my program
+### Introduction to JavaScript
+#### Basics of any programming language
+#### Writing my first program
+#### Running my program
 
-- 5 -- Javascript Fundamentals ([resource](https://javascript.info/))
- 
-
+### Javascript Fundamentals ([resource](https://javascript.info/))
