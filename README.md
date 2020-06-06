@@ -30,10 +30,10 @@ core-code.io is designed as if you were already hired by a software company. You
 ## Mutable INDEX (because it will change overtime)
 
 ### Why are we here
--- A day in the life of a software engineer
--- Where can I work in
--- What can I build
--- How much could I earn (and when)
+#### A day in the life of a software engineer
+#### Where can I work in
+#### What can I build
+#### How much could I earn (and when)
 
 ### The development environment
 #### Introduction to the tools
