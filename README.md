@@ -8,12 +8,13 @@ You understand yourself as part of a whole and you are willing to find your role
 
 ## Principles
 
-- Independence. Learn by being genuinely curious. Ask questions to yourself, then to google, then to others.
+- Independence. Learn by being genuinely curious. Ask questions to yourself, then to a search engine (or books), then to others.
 - Authenticity. Listen to whatever you feel attracted to and do not be afraid of diving deep. Embrace your self.
 - Sharing. Start a conversation, share your discoveries. Find partners that'll make you stronger.
 - Quality. You are aware of your responsibilities and know when your assignments are ready. Avoid wasting others' time and only submit things when they meet professional standards. How you care about the quality of your work is how you care about the quality of your life.
 - Think before you build. Design it in your head, then proceed. Avoid wasting your time by writing code you'll need to change later. Understand the problem, solve it in your head and then write the code. 
 - Integrity. As part of an organization, you'll have access to sensible company and user data. Be wise and responsible. Don't be afraid of communicating any vulnerabilities you've found or that you may have created. Any error can be solved before deploying to production.
+- Continuous learning. Software technologies evolve fast. Always be aware of these updates. 
 
 ## Objective
 
@@ -21,11 +22,11 @@ This program is designed to help you succeed as an independent software develope
 
 You will also learn how to communicate your ideas professionally. Imagination is futile without putting it to action. First explore, test, prove and then present. 
 
-You will feel comfortable with your code, not only because it works, but because it is eloquent, its performance is optimal, its architecture is well structured and its results are reliable.
+You will feel comfortable with your code, not only because it works, but because it is eloquent, its performance is optimal, its architecture is well structured and its results are reliable. Most importantly because it serves a greater purpose: **To make life enjoyable**.
 
-## Workflow
+## Methodology
 
-core-code.io is designed as if you were already hired by a software company. You'll learn how to use common communication tools such as slack and SCRUM. Common version control tools such as GIT and Github. Common development tools such as the command line and the text editor, common deployment tools, and of course, you'll learn how to program SOLID products utilizing patterns such as TDD and OOP. 
+core-code.io is designed as if you were already hired by a software company. You'll learn how to use common communication tools such as Slack and SCRUM. Common version control tools such as GIT and Github. Common development tools such as the command line and the text editor, common deployment tools, and of course, you'll learn how to program SOLID products utilizing patterns such as TDD and OOP. 
 
 ## Mutable INDEX (because it will change overtime)
 
