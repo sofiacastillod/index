@@ -6,6 +6,7 @@ core-code.io is for those genuinely seeking knowledge. You are passionate about 
 
 You understand yourself as part of a whole and you are willing to find your role by looking into your authenticity.
 
+
 ## Principles
 
 - Independence. Learn by being genuinely curious. Ask questions to yourself, then to a search engine (or books), then to others.
